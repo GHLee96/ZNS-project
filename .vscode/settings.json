@@ -1,0 +1,9 @@
+{
+  // "C_Cpp.formatting": "disabled",
+  "[c]": {
+    "editor.formatOnSave": true
+  },
+  "[yaml]": {
+    "editor.formatOnSave": false
+  },
+}

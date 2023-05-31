@@ -1,0 +1,9 @@
+
+
+
+1. sequential write
+2. random write
+
+
+SECTORS_PER_PAGE = 64
+BYTES_PER_SECTOR = 512
